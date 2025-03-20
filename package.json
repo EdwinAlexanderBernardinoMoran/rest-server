@@ -1,0 +1,18 @@
+{
+  "name": "rest-server",
+  "version": "1.0.0",
+  "description": "Creation of raw with node JS",
+  "keywords": [
+    "nodejs"
+  ],
+  "license": "MIT",
+  "author": "Edwin Alexander Bernardino Moran",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
